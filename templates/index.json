@@ -163,6 +163,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_a6t8Lb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_text\">\n  <div class=\"m-product-text\">\n    <div class=\"rte\">\n      <p>✓ Gardez vos jambes bien au chaud</p>\n      <p>✓ Aspect élégant d’un collant classique transparent</p>\n      <p>✓ Jusqu’à 100× plus résistant qu’un collant ordinaire</p>\n    </div>\n  </div>\n</div>"
+          }
+        },
         "variant_picker_UeNAgt": {
           "type": "variant_picker",
           "disabled": true,
@@ -235,6 +241,7 @@
         "liquid_3Nn3nA",
         "title_cqDd6P",
         "price_eTf73t",
+        "liquid_a6t8Lb",
         "variant_picker_UeNAgt",
         "quantity_selector_dtJyAG",
         "liquid_LPbmqF",
