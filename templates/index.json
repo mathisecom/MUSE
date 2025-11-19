@@ -116,9 +116,9 @@
         "card_width_desktop": 130,
         "card_width_mobile": 100,
         "heading_color": "#121212",
-        "layout_bg_color": "#FFFFFF",
+        "layout_bg_color": "#ffffff",
         "layout_border_color": "#121212",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "border_color": "#121212",
         "margin_top": 0,
         "margin_bottom": 0,
@@ -258,6 +258,100 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "ss_scrolling_images_phWNRH": {
+      "type": "ss-scrolling-images",
+      "blocks": {
+        "image_48YWEX": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        },
+        "image_qjaz9L": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        },
+        "image_w3P73a": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        },
+        "image_dPaQzy": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        },
+        "image_wYRbbP": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_48YWEX",
+        "image_qjaz9L",
+        "image_w3P73a",
+        "image_dPaQzy",
+        "image_wYRbbP"
+      ],
+      "name": "SS - Scrolling images",
+      "settings": {
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_height": 130,
+        "heading_align": "center",
+        "slider_speed": 15,
+        "slider_gap": 10,
+        "slider_gap_mobile": 10,
+        "slider_mt": 50,
+        "slider_direction": "left",
+        "pause_hover": false,
+        "image_width_desktop": 300,
+        "image_width_mobile": 120,
+        "image_height_desktop": 400,
+        "image_height_mobile": 200,
+        "image_radius": 10,
+        "use_content": false,
+        "content_position": "center",
+        "content_max_width": 340,
+        "content_max_width_mobile": 340,
+        "content_padding_vertical": 30,
+        "content_padding_horizontal": 30,
+        "content_distance": 60,
+        "content_radius": 10,
+        "content_border_thickness": 0,
+        "use_shadow": true,
+        "text": "<p>+29.000 people love our product</p>",
+        "text_custom": false,
+        "text_font": "assistant_n4",
+        "text_size": 24,
+        "text_height": 130,
+        "heading_color": "#000000",
+        "content_bg": "#FFFFFF",
+        "content_border_color": "#000000",
+        "text_color": "#000000",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
       }
     },
     "logo_list_mdTRwn": {
@@ -403,6 +497,7 @@
     "slideshow_nWUcWd",
     "ss_scrolling_logo_cloud_5_YQVBf9",
     "featured_product_UpDqXE",
+    "ss_scrolling_images_phWNRH",
     "logo_list_mdTRwn",
     "media_with_text_BzATrF",
     "faq"
