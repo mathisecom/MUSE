@@ -78,6 +78,7 @@
         },
         "variant_picker_UeNAgt": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
@@ -89,7 +90,14 @@
         },
         "quantity_selector_dtJyAG": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {}
+        },
+        "liquid_LPbmqF": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product__block product__block--custom_liquid\">\n  <style>\n    #people-viewing {\n      position: relative;\n      padding-left: 30px;\n      font-size: 16px;\n      font-weight: bold;\n    }\n\n    #people-viewing::before {\n      content: '';\n      position: absolute;\n      left: 0;\n      top: 50%;\n      transform: translateY(-50%);\n      width: 12px;\n      height: 12px;\n      border-radius: 50%;\n      background-color: #f4af29;\n      box-shadow: 0 0 10px #f4af29, 0 0 20px #f4af29;\n      animation: glowing 3.5s infinite;\n    }\n\n    @keyframes glowing {\n      0% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n      50% { box-shadow: 0 0 20px #f4af29, 0 0 30px #f4af29; }\n      100% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n    }\n  </style>\n\n  <div id=\"people-viewing\">Il ne reste plus que <span id=\"stock-count\">5</span> en stock.</div>\n\n  <script>\n    // Fonction pour faire diminuer le nombre en stock progressivement\n    function animerStock() {\n      let stockActuel = 9; // Valeur de départ\n      const stockFinal = 5; // Valeur finale\n      const elementStock = document.getElementById(\"stock-count\");\n\n      const interval = setInterval(() => {\n        stockActuel--;\n        elementStock.textContent = stockActuel;\n\n        if (stockActuel <= stockFinal) {\n          clearInterval(interval);\n        }\n      }, 12000); // Change toutes les 12 secondes\n    }\n\n    // Lance l’animation uniquement quand l’élément devient visible à l’écran\n    const observateur = new IntersectionObserver((entries, observateur) => {\n      entries.forEach(entry => {\n        if (entry.isIntersecting) {\n          animerStock();\n          observateur.disconnect();\n        }\n      });\n    }, { threshold: 0.5 });\n\n    observateur.observe(document.getElementById(\"people-viewing\"));\n  </script>\n</div>"
+          }
         },
         "buy_buttons_btFmhf": {
           "type": "buy_buttons",
@@ -136,6 +144,7 @@
         "price_eTf73t",
         "variant_picker_UeNAgt",
         "quantity_selector_dtJyAG",
+        "liquid_LPbmqF",
         "buy_buttons_btFmhf",
         "liquid_B4jqHB",
         "collapsible_text_bRTyRR",
