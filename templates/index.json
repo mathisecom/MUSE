@@ -266,30 +266,35 @@
         "image_48YWEX": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_21.webp",
             "url": ""
           }
         },
         "image_qjaz9L": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_23.webp",
             "url": ""
           }
         },
         "image_w3P73a": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_22.webp",
             "url": ""
           }
         },
         "image_dPaQzy": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_26.webp",
             "url": ""
           }
         },
         "image_wYRbbP": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_24.webp",
             "url": ""
           }
         }
@@ -303,11 +308,11 @@
       ],
       "name": "SS - Scrolling images",
       "settings": {
-        "heading": "",
+        "heading": "<p><strong>+3,000 Clients Satisfaits</strong></p>",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
-        "heading_size": 40,
-        "heading_height": 130,
+        "heading_size": 24,
+        "heading_height": 90,
         "heading_align": "center",
         "slider_speed": 15,
         "slider_gap": 10,
@@ -315,9 +320,9 @@
         "slider_mt": 50,
         "slider_direction": "left",
         "pause_hover": false,
-        "image_width_desktop": 300,
+        "image_width_desktop": 150,
         "image_width_mobile": 120,
-        "image_height_desktop": 400,
+        "image_height_desktop": 200,
         "image_height_mobile": 200,
         "image_radius": 10,
         "use_content": false,
@@ -525,7 +530,7 @@
           "settings": {
             "image": "shopify://shop_images/Sous-titre_48.webp",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
