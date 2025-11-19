@@ -113,8 +113,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Informations sur la livraison",
+            "content": "<p><strong>Livraison gratuite</strong> en France métropolitaine.</p><h6>Livraison standard (France)</h6><p>La livraison est assurée sous <strong>5 à 7 jours ouvrés</strong> à partir de la <strong>confirmation de votre commande</strong>.<br/><br/>Dès l’expédition, vous recevrez un e-mail de suivi afin de suivre l’avancement de votre colis en temps réel.</p>",
             "page": ""
           }
         },
@@ -123,7 +123,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
+            "title": "14 jours pour changer d'avis",
             "content": "<p>Share some content to your customers about your products.</p>",
             "page": ""
           }
@@ -158,6 +158,91 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "logo_list_mdTRwn": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_XT4xKj": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Capture_d_ecran_2022-10-07_a_13.49.59.avif",
+            "logo_width": 170,
+            "link": ""
+          }
+        },
+        "logo_3ekmWV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Capture_d_ecran_2022-10-09_a_15.27.06.avif",
+            "logo_width": 170,
+            "link": ""
+          }
+        },
+        "logo_Xa4FjY": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Capture_d_ecran_2022-10-07_a_13.50.11.avif",
+            "logo_width": 170,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_XT4xKj",
+        "logo_3ekmWV",
+        "logo_Xa4FjY"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
+      }
+    },
+    "media_with_text_BzATrF": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_xQ8eQU": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "OBTENIR MAINTENANT",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#31241c",
+            "text_gradient": "",
+            "button_background": "#31241c",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_xQ8eQU"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
       }
     },
     "faq": {
@@ -217,6 +302,8 @@
   "order": [
     "slideshow_nWUcWd",
     "featured_product_UpDqXE",
+    "logo_list_mdTRwn",
+    "media_with_text_BzATrF",
     "faq"
   ]
 }
