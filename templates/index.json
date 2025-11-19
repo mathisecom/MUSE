@@ -738,8 +738,8 @@
             "show_rating": true,
             "rating": 4,
             "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Super collant ! Je l’ai porté toute la journée sans qu’il ne s’accroche une seule fois — durable et vraiment confortable.<br/></p>"
+            "title": "Super collant !",
+            "content": "<p>Super collant ! Je l’ai porté toute la journée sans qu’il ne s’accroche une seule fois, durable et vraiment confortable.</p>"
           }
         },
         "testimonial_Ufm74H": {
@@ -759,16 +759,28 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
+            "author": "Julia B.",
             "title": "Je recommande !",
             "content": "<p>Je l’ai acheté pour ma grossesse : il enveloppe mon ventre avec douceur tout en restant élégant. Je recommande !</p>"
+          }
+        },
+        "testimonial_PFmTbb": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Aline A.",
+            "title": "Grande qualité",
+            "content": "<p>Enfin un collant qui ne file pas au bout d’une heure ! Grande qualité, j’en rachèterai pour sûr.</p>"
           }
         }
       },
       "block_order": [
         "testimonial_wkPzRE",
         "testimonial_Ufm74H",
-        "testimonial_9zKinE"
+        "testimonial_9zKinE",
+        "testimonial_PFmTbb"
       ],
       "name": "Testimonials",
       "settings": {
