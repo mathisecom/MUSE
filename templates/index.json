@@ -15,6 +15,7 @@
         "image_cW9WQh": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Cuanto_tiempo_duran_las_pelucas_naturales.jpg",
             "mobile_image": "shopify://shop_images/BANNER_MOBILE_5.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -40,7 +41,7 @@
       "name": "Slideshow",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
+        "allow_transparent_header": false,
         "show_initial_transition": false,
         "image_size": "auto",
         "controls_type": "dots",
