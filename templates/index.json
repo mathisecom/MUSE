@@ -501,12 +501,29 @@
         "text_color": "#31241c"
       }
     },
+    "scrolling_text_AKMVFi": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#31241c",
+        "background_gradient": "",
+        "text_color": "#fbf7f1",
+        "text_gradient": ""
+      }
+    },
     "media_with_text_YgDXxH": {
       "type": "media-with-text",
       "blocks": {
         "image_WYyw3f": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Sous-titre_48.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -693,6 +710,7 @@
     "logo_list_mdTRwn",
     "media_with_text_BzATrF",
     "text_with_icons_GhrbhB",
+    "scrolling_text_AKMVFi",
     "media_with_text_YgDXxH",
     "media_with_text_G8WFKN",
     "testimonials_qCi7Cg",
