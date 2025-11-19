@@ -647,6 +647,49 @@
         "spacing": "none"
       }
     },
+    "slideshow_pTkDxX": {
+      "type": "slideshow",
+      "blocks": {
+        "image_9Mwj3r": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/des_femmes_constatent_que_nos_collants_polaires_ne_s_effilent_pas_et_durent_plus_longtemps_offrant_ainsi_des_economies_sur_le_long_terme..webp",
+            "mobile_image": "shopify://shop_images/Sans_titre_1080_x_1200_px_2.webp",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "#shopify-section-template--27110830473557__featured_product_UpDqXE",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_9Mwj3r"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
     "media_with_text_G8WFKN": {
       "type": "media-with-text",
       "blocks": {
@@ -919,6 +962,7 @@
     "text_with_icons_GhrbhB",
     "scrolling_text_AKMVFi",
     "media_with_text_YgDXxH",
+    "slideshow_pTkDxX",
     "media_with_text_G8WFKN",
     "ss_scrolling_images_H6WryT",
     "testimonials_qCi7Cg",
