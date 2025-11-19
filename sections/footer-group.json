@@ -96,7 +96,7 @@
           "type": "text",
           "settings": {
             "title": "Contactez-Nous",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "content": "<p><strong>E-MAIL :</strong></p><p><strong>Horaires : </strong>Du Lundi au Vendredi de 9h à 12h et de 14h à 18h / Samedi et Dimanche de 10h à 12h</p>",
             "enable_follow_on_shop": false
           }
         }
