@@ -171,7 +171,6 @@
         },
         "variant_picker_UeNAgt": {
           "type": "variant_picker",
-          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
@@ -183,7 +182,6 @@
         },
         "quantity_selector_dtJyAG": {
           "type": "quantity_selector",
-          "disabled": true,
           "settings": {}
         },
         "liquid_LPbmqF": {

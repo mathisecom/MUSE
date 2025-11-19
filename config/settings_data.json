@@ -36,6 +36,7 @@
     "text_font_size_mobile": 13,
     "text_font_size_desktop": 13,
     "heading_apparition": "split_fade",
+    "color_swatch_config": "Noir : #161515\nBeige : #A3806A",
     "discount_mode": "percentage",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
