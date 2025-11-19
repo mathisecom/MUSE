@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "LIVRAISON OFFERTE EN 5-7 JOURS OUVRÉS",
+            "url": ""
+          }
+        },
+        "message_cgerL7": {
+          "type": "message",
+          "settings": {
+            "text": "14 JOURS POUR CHANGER D'AVIS",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_cgerL7"
       ],
       "settings": {
         "enable_sticky": false,
