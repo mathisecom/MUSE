@@ -478,8 +478,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "title": "Plus jamais froid",
+            "content": "<p>Restez au chaud tout l’hiver, même à <strong>–10°C</strong>, grâce à nos collants thermiques ultra-chauds.</p>"
           }
         },
         "item_wMBpbT": {
@@ -491,8 +491,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+            "title": "Fini les collants qui filent",
+            "content": "<p>Incassables et ultra-résistants : ils ne s’effilent pas et gardent toujours leur forme.</p><p></p>"
           }
         },
         "item_MecKgG": {
@@ -504,15 +504,29 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.</p>"
+            "title": "Élégance & chaleur",
+            "content": "<p>Un look féminin en toutes circonstances. Ils s’adaptent à toutes vos tenues.</p>"
+          }
+        },
+        "item_CiCkb4": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Doux & respirants",
+            "content": "<p>Un confort absolu grâce à un tissu doux, respirant et agréable à porter toute la journée.</p>"
           }
         }
       },
       "block_order": [
         "item_TL6q8J",
         "item_wMBpbT",
-        "item_MecKgG"
+        "item_MecKgG",
+        "item_CiCkb4"
       ],
       "name": "Text with icons",
       "settings": {
