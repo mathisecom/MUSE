@@ -380,6 +380,58 @@
         "lazy": true
       }
     },
+    "press_b8c8At": {
+      "type": "press",
+      "blocks": {
+        "quote_bNyLDq": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Super collant ! Je l’ai porté toute la journée sans qu’il ne s’accroche une seule fois, durable et vraiment confortable.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_NNXXym": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Effet galbant parfait et matière ultra-douce. On dirait que je ne porte rien, mais ma silhouette est sublimée !",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_XXjwkp": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Je l’ai acheté pour ma grossesse : il enveloppe mon ventre avec douceur tout en restant élégant. Je recommande !",
+            "show_rating": true,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "quote_bNyLDq",
+        "quote_NNXXym",
+        "quote_XXjwkp"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "logo_list_mdTRwn": {
       "type": "logo-list",
       "blocks": {
@@ -863,6 +915,7 @@
     "ss_scrolling_logo_cloud_5_YQVBf9",
     "featured_product_UpDqXE",
     "ss_scrolling_images_phWNRH",
+    "press_b8c8At",
     "logo_list_mdTRwn",
     "media_with_text_BzATrF",
     "text_with_icons_GhrbhB",
