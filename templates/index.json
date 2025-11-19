@@ -410,6 +410,7 @@
         "image_xQ8eQU": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/giphy_3000x3000_a87ca4b9-1d9c-40f8-8af6-103bb19acbf6.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
