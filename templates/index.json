@@ -157,10 +157,6 @@
             "heading_tag": "h1"
           }
         },
-        "badges_YVnNdk": {
-          "type": "badges",
-          "settings": {}
-        },
         "price_eTf73t": {
           "type": "price",
           "settings": {
@@ -238,7 +234,6 @@
         "liquid_cfrbgb",
         "liquid_3Nn3nA",
         "title_cqDd6P",
-        "badges_YVnNdk",
         "price_eTf73t",
         "variant_picker_UeNAgt",
         "quantity_selector_dtJyAG",
