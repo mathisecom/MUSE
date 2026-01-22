@@ -136,6 +136,105 @@
         "lazy": true
       }
     },
+    "ss_scrolling_images_phWNRH": {
+      "type": "ss-scrolling-images",
+      "blocks": {
+        "image_48YWEX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_21.webp",
+            "url": ""
+          }
+        },
+        "image_qjaz9L": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_23.webp",
+            "url": ""
+          }
+        },
+        "image_w3P73a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_22.webp",
+            "url": ""
+          }
+        },
+        "image_dPaQzy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_26.webp",
+            "url": ""
+          }
+        },
+        "image_wYRbbP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_24.webp",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_48YWEX",
+        "image_qjaz9L",
+        "image_w3P73a",
+        "image_dPaQzy",
+        "image_wYRbbP"
+      ],
+      "name": "SS - Scrolling images",
+      "settings": {
+        "heading": "<p><strong>+3,000 Clients Satisfaits</strong></p>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 24,
+        "heading_height": 90,
+        "heading_align": "center",
+        "slider_speed": 15,
+        "slider_gap": 10,
+        "slider_gap_mobile": 10,
+        "slider_mt": 50,
+        "slider_direction": "left",
+        "pause_hover": false,
+        "image_width_desktop": 150,
+        "image_width_mobile": 120,
+        "image_height_desktop": 200,
+        "image_height_mobile": 200,
+        "image_radius": 10,
+        "use_content": false,
+        "content_position": "center",
+        "content_max_width": 340,
+        "content_max_width_mobile": 340,
+        "content_padding_vertical": 30,
+        "content_padding_horizontal": 30,
+        "content_distance": 60,
+        "content_radius": 10,
+        "content_border_thickness": 0,
+        "use_shadow": true,
+        "text": "<p>+29.000 people love our product</p>",
+        "text_custom": false,
+        "text_font": "assistant_n4",
+        "text_size": 24,
+        "text_height": 130,
+        "heading_color": "#000000",
+        "content_bg": "#ffffff",
+        "content_border_color": "#000000",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
     "featured_product_UpDqXE": {
       "type": "featured-product",
       "blocks": {
@@ -162,6 +261,34 @@
           "settings": {
             "show_taxes_notice": false
           }
+        },
+        "offer_t7rHA3": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-coupon",
+            "icon_width": 20,
+            "title": "Un Acheté un offert code VALENTINE",
+            "content": "",
+            "background": "#f2f2f2",
+            "text_color": "#121212"
+          }
+        },
+        "product_variations_EyeL84": {
+          "type": "product_variations",
+          "settings": {
+            "option_name": "2 acheté deux offerts",
+            "option_value_metafield": "",
+            "products": [
+              "2pcs-womens-warm-basic-tight-pants-autumn-and-winter-pants-thickened-high-waist-slimming-pantyhose-fleece-black-skin-sexy-girl-113106223445-xvjqk"
+            ],
+            "selector_style": "swatch"
+          }
+        },
+        "payment_terms_7x3pd3": {
+          "type": "payment_terms",
+          "settings": {}
         },
         "liquid_a6t8Lb": {
           "type": "liquid",
@@ -255,6 +382,9 @@
         "liquid_3Nn3nA",
         "text_AdQfDy",
         "price_eTf73t",
+        "offer_t7rHA3",
+        "product_variations_EyeL84",
+        "payment_terms_7x3pd3",
         "liquid_a6t8Lb",
         "variant_picker_UeNAgt",
         "quantity_selector_dtJyAG",
@@ -286,38 +416,38 @@
         "input_text_color": ""
       }
     },
-    "ss_scrolling_images_phWNRH": {
+    "ss_scrolling_images_PDwQbf": {
       "type": "ss-scrolling-images",
       "blocks": {
-        "image_48YWEX": {
+        "image_kQWVVb": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BANNER_MOBILE_21.webp",
             "url": ""
           }
         },
-        "image_qjaz9L": {
+        "image_jRHhzD": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BANNER_MOBILE_23.webp",
             "url": ""
           }
         },
-        "image_w3P73a": {
+        "image_GCNLmh": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BANNER_MOBILE_22.webp",
             "url": ""
           }
         },
-        "image_dPaQzy": {
+        "image_VYtqJr": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BANNER_MOBILE_26.webp",
             "url": ""
           }
         },
-        "image_wYRbbP": {
+        "image_xkrjzE": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/BANNER_MOBILE_24.webp",
@@ -326,11 +456,11 @@
         }
       },
       "block_order": [
-        "image_48YWEX",
-        "image_qjaz9L",
-        "image_w3P73a",
-        "image_dPaQzy",
-        "image_wYRbbP"
+        "image_kQWVVb",
+        "image_jRHhzD",
+        "image_GCNLmh",
+        "image_VYtqJr",
+        "image_xkrjzE"
       ],
       "name": "SS - Scrolling images",
       "settings": {
@@ -961,8 +1091,9 @@
   "order": [
     "slideshow_nWUcWd",
     "ss_scrolling_logo_cloud_5_YQVBf9",
-    "featured_product_UpDqXE",
     "ss_scrolling_images_phWNRH",
+    "featured_product_UpDqXE",
+    "ss_scrolling_images_PDwQbf",
     "press_b8c8At",
     "logo_list_mdTRwn",
     "media_with_text_BzATrF",
