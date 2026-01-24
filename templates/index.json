@@ -286,6 +286,12 @@
             "selector_style": "swatch"
           }
         },
+        "amose_bundle_amose_bundle_block_zgKhQ8": {
+          "type": "shopify://apps/amose-bundle/blocks/amose_bundle_block/50476a12-3ce4-457e-ba71-230751f626b6",
+          "settings": {
+            "product": "collant-polaire-transparent"
+          }
+        },
         "payment_terms_7x3pd3": {
           "type": "payment_terms",
           "settings": {}
@@ -373,6 +379,7 @@
         "price_eTf73t",
         "offer_t7rHA3",
         "product_variations_EyeL84",
+        "amose_bundle_amose_bundle_block_zgKhQ8",
         "payment_terms_7x3pd3",
         "liquid_a6t8Lb",
         "quantity_selector_dtJyAG",
