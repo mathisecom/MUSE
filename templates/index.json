@@ -262,19 +262,6 @@
             "show_taxes_notice": false
           }
         },
-        "offer_t7rHA3": {
-          "type": "offer",
-          "settings": {
-            "text_alignment": "start",
-            "icon_position": "aligned",
-            "icon": "picto-coupon",
-            "icon_width": 20,
-            "title": "Un Acheté un offert code VALENTINE",
-            "content": "",
-            "background": "#f2f2f2",
-            "text_color": "#121212"
-          }
-        },
         "product_variations_EyeL84": {
           "type": "product_variations",
           "settings": {
@@ -286,6 +273,12 @@
             "selector_style": "swatch"
           }
         },
+        "liquid_a6t8Lb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_text\">\n  <div class=\"m-product-text\">\n    <div class=\"rte\">\n      <p>✓ Gardez vos jambes bien au chaud</p>\n      <p>✓ Aspect élégant d’un collant classique transparent</p>\n      <p>✓ Jusqu’à 100× plus résistant qu’un collant ordinaire</p>\n    </div>\n  </div>\n</div>"
+          }
+        },
         "amose_bundle_amose_bundle_block_zgKhQ8": {
           "type": "shopify://apps/amose-bundle/blocks/amose_bundle_block/50476a12-3ce4-457e-ba71-230751f626b6",
           "settings": {
@@ -294,16 +287,6 @@
         },
         "payment_terms_7x3pd3": {
           "type": "payment_terms",
-          "settings": {}
-        },
-        "liquid_a6t8Lb": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"main-product__block main-product__block-custom_text\">\n  <div class=\"m-product-text\">\n    <div class=\"rte\">\n      <p>✓ Gardez vos jambes bien au chaud</p>\n      <p>✓ Aspect élégant d’un collant classique transparent</p>\n      <p>✓ Jusqu’à 100× plus résistant qu’un collant ordinaire</p>\n    </div>\n  </div>\n</div>"
-          }
-        },
-        "quantity_selector_dtJyAG": {
-          "type": "quantity_selector",
           "settings": {}
         },
         "liquid_LPbmqF": {
@@ -377,12 +360,10 @@
         "liquid_3Nn3nA",
         "text_AdQfDy",
         "price_eTf73t",
-        "offer_t7rHA3",
         "product_variations_EyeL84",
+        "liquid_a6t8Lb",
         "amose_bundle_amose_bundle_block_zgKhQ8",
         "payment_terms_7x3pd3",
-        "liquid_a6t8Lb",
-        "quantity_selector_dtJyAG",
         "liquid_LPbmqF",
         "buy_buttons_btFmhf",
         "liquid_LPBWJP",
